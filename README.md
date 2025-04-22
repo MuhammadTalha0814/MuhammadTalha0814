@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadTalha0814
-- 👀 I’m interested in Software Development and Web Development and ML/Data Science
-- 🌱 Studying B.Sc Software Engineering at UET LAHORE
+- 👀 I do freelancing on various fields like Web Development, Machine Learning and Deep Learning, and also write research papers.
+- 🌱 Graduated in software engineering from UET Lahore with a cgpa of 3.68 and currently completed first Semester of Masters in Computer Science.
 
 <!---
 MuhammadTalha0814/MuhammadTalha0814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
